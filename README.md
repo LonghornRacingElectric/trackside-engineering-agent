@@ -1,3 +1,1 @@
-test
-
-zaina is cool
+this project is a work in progress, @Zaina Jafri for questions
